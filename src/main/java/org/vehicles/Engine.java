@@ -1,4 +1,4 @@
-package org.example;
+package org.vehicles;
 
 public class Engine {
     boolean running;

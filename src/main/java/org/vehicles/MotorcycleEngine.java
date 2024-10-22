@@ -1,4 +1,4 @@
-package org.example;
+package org.vehicles;
 
 public class MotorcycleEngine extends Engine {
     public MotorcycleEngine() {
